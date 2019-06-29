@@ -1,0 +1,7 @@
+Db name :
+id9653960_simbkup
+
+DB User :
+id9653960_simbkup
+
+localhost
